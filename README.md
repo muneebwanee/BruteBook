@@ -6,7 +6,7 @@
 <a href="https://github.com/muneebwanee"><img title="Author" src="https://img.shields.io/badge/Author-muneeb--wanee-red.svg?style=for-the-badge&logo=github"></a>
 <a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=for-the-badge"></a>
 </p>
-## BruteBook For Termux ( No Root Need )
+<p align="center"> BruteBook For Termux ( No Root Need ) </p>
 
 ## How To Use :
 
