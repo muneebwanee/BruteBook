@@ -7,7 +7,9 @@
 <a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=for-the-badge"></a>
 </p>
 ## BruteBook For Termux ( No Root Need )
-### How To Use :
+
+## How To Use :
+
 * `git clone https://github.com/muneebwanee/BruteBook`
 * `cd BruteBook`
 * `sh install.sh`
