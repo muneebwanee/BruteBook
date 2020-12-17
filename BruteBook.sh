@@ -42,12 +42,13 @@ command -v curl > /dev/null 2>&1 || { echo >&2 "I require curl but it's not inst
 banner() {
 
 
-╔══╗─────╔╗───╔══╗──────╔╗
-║╔╗║────╔╝╚╗──║╔╗║──────║║
-║╚╝╚╦═╦╗╠╗╔╬══╣╚╝╚╦══╦══╣║╔╗
-║╔═╗║╔╣║║║║║║═╣╔═╗║╔╗║╔╗║╚╝╝
-║╚═╝║║║╚╝║╚╣║═╣╚═╝║╚╝║╚╝║╔╗╗
-╚═══╩╝╚══╩═╩══╩═══╩══╩══╩╝╚╝     BruteBook v1.0, Coded by: muneebwanee (IG/Github)     \e[0m\n"
+printf "\e[1;34m ╔══╗─────╔╗───╔══╗──────╔╗   \n\e[0m"
+printf "\e[1;34m ║╔╗║────╔╝╚╗──║╔╗║──────║║   \n\e[0m"
+printf "\e[1;34m ║╚╝╚╦═╦╗╠╗╔╬══╣╚╝╚╦══╦══╣║╔╗  \n\e[0m"
+printf "\e[1;34m ║╔═╗║╔╣║║║║║║═╣╔═╗║╔╗║╔╗║╚╝╝   \n\e[0m"
+printf "\e[1;34m ║╚═╝║║║╚╝║╚╣║═╣╚═╝║╚╝║╚╝║╔╗╗   \n\e[0m"
+printf "\e[1;34m ╚═══╩╝╚══╩═╩══╩═══╩══╩══╩╝╚╝      \n\e[0m"
+printf "\e[1;104m     BruteBook v1.0, Coded by: muneebwanee (IG/Github)     \e[0m\n"
 printf "\n"
 printf "\e[1;41m                       -=[ WARNING ]=-                       \e[0m\n"
 printf "\n\e[1;77mPlease, keep in mind that Facebook blocks the account for 1 h\n"
